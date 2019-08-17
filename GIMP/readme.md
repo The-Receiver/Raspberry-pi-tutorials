@@ -10,6 +10,9 @@
 
 ``` Ctrl + Alt + O ``` : Open as layer go ``` Graphics ```, and select ```Gnu Image Manipulation Program```
 
+#### Toolbox
+``` O ``` : Color picker
+
 ## Opening and editing an image in GIMP
 
 To open GIMP, click on the raspberry button in the top left corner,
