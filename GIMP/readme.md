@@ -82,8 +82,9 @@ Open the document by going to the top menu and clicking on file.
 ![](gimp28_crop.png)
 ![](gimp29_save.png)
 ![](gimp30_save.png)
+When we saved the file, it saved as ```.xcf```. This way, we can save the file with all the layers, and can edit the file again with GIMP. However, if we want to save it as normal picture, we have to ``` Export ``` it. Go to ``` File ``` and click Export. You can also type ``` Ctrl E ``` with the keyboard to export.
 ![](gimp31_export.png)
-Give the file name, click Export. A window will pop up. Click export to that too. After it finishes exporting, you can go to wherever the png file was saved and view it.
+Click ``` Export ``` on both of these windows. After the picture finishes exporting, you can close GIMP and go to wherever the png file was saved to view it.
 ![](gimp33_export.png)
 
 
