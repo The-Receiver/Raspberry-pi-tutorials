@@ -1,21 +1,49 @@
 # GIMP
 
+GIMP is the main drawing and image editing program of Raspbian. There are many tools for editing images in GIMP. In this tutorial, we use some of these tools to create this image:
+
+![](First Project.png)
+
 ## Keyboard shortcuts guide:
 
+If you make a mistake, you can use ``` Ctrl Z ``` to undo changes you have made, and ``` Ctrl Y ``` to redo changes you have made. These options are called ``` Undo ``` and ```Redo``` in ``` File``` .
+
+If you accidentally delete a toolbox, go to ``` Windows ``` and click on ``` Recently closed docks```. Also make sure There is no checkmark next to ``` Hide Docks ```.
 
 #### File
-``` Ctrl + O ``` : Open
+``` Ctrl O ``` : Open
 
-``` Ctrl + N ``` : New
+``` Ctrl N ``` : New
 
-``` Ctrl + Alt + O ``` : Open as layer go ``` Graphics ```, and select ```Gnu Image Manipulation Program```
+``` Ctrl Alt O ``` : Open as layers
+
+``` Ctrl E ```: Export
+
+``` Ctrl S ```: Save
 
 #### Toolbox
 ``` O ``` : Color picker
 
+``` P ``` : Paintbrush tool 
+
+``` Shift E ``` : Erase tool 
+
+``` T ``` : Text tool 
+
+``` M ``` : Move tool 
+
+``` Shift T ``` : Scale tool
+
+#### Edit
+``` Ctrl Z ```: Undo 
+``` Ctrl Y ```: Redo
+
+
+If you have done this tutorial already, try 
+
 ## Opening and editing an image in GIMP
 
-To open GIMP, click on the raspberry button in the top left corner,
+To open GIMP, click on the raspberry button in the top left corner, go to ``` Graphics ``` and then click on ``` Gnu Image Manipulation Program ```
 ![](gimp0_open.png)
 
 Open the document by going to the top menu and clicking on file.
