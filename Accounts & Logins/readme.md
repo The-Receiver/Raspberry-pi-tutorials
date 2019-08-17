@@ -13,7 +13,9 @@ Then type ```Enter``` until you see the line ``` Is this information correct? [Y
 Type ``` cd /home && ls```. If you see ```username```, you successfully created the user.
 
 ## Enable login page
-
+Now we will enable a login page for raspberry pi.
+Type ```raspi-config``` in the terminal.
+![](raspi-config.png)
 ![](login1.png)
 ![](login2.png)
 ![](login3.png)
