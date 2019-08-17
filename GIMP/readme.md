@@ -83,8 +83,7 @@ Open the document by going to the top menu and clicking on file.
 ![](gimp29_save.png)
 ![](gimp30_save.png)
 ![](gimp31_export.png)
-![](gimp32_export.png)
-![](gimp33_close.png)
+
 ![](gimp33_export.png)
 
 
