@@ -36,4 +36,4 @@ Type ```q``` to quit the document.
 Type ```man zathura``` in the terminal for a full guide.
 Click on the video link below to watch a video guide:
 
-![zathura.mkv](zathura.mkv)
+[zathura.mkv](https://raw.githubusercontent.com/The-Receiver/Raspberry-pi-tutorials/master/Zathura/zathura.mkv)
