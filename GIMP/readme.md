@@ -66,8 +66,9 @@ Open the document by going to the top menu and clicking on file.
 ![](gimp12_scale.png)
 ![](gimp13_scale.png)
 ![](gimp14_scale.png)
+Now we will erase small parts of the man's beard. Click on the eraser, or Type ``` Shift E ```. This will activate the eraser tool.
 ![](gimp15_eraser.png)
-To zoom into the image, click
+To zoom into the image, type ``` Shift = ```. Too zoom back, type ``` - ```. On the left we can also 
 ![](gimp16_eraser.png)
 ![](gimp18_text.png)
 ![](gimp19_text.png)
