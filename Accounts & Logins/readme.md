@@ -4,7 +4,7 @@
 Type ``` Ctrl + alt + T ```  to open the terminal, then to create a user with name "user" type ```sudo adduser user```
 ![](adduser1.png)
 
-After ``` new password``` Then type the password for user and type ``` Enter ```. Then after ```Retype new password``` type the password again. You cannot see the password even if you type it. 
+After ``` new password``` type the password for user and type ``` Enter ```. Then after ```Retype new password``` type the password again. You cannot see the password even if you type it. 
 ![](adduser2.png)
 
 Then type ```Enter``` until you see the line ``` Is this information correct? [Y/n] ```. After that line type ```y``` and then ``` Enter ```.
@@ -13,3 +13,8 @@ Then type ```Enter``` until you see the line ``` Is this information correct? [Y
 Type ``` cd /home && ls```. If you see ```username```, you successfully created the user.
 
 ## Enable login page
+
+![](login1.png)
+![](login2.png)
+![](login3.png)
+![](login4.png)
