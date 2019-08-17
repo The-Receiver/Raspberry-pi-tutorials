@@ -1,3 +1,3 @@
-## Add a new user on raspberry pi
+# Add a new user on raspberry pi
 
-# Enable login page
+## Enable login page
