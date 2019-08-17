@@ -16,7 +16,9 @@ Type ``` cd /home && ls```. If you see ```username```, you successfully created 
 Now we will enable a login page for raspberry pi.
 Type ```raspi-config``` in the terminal.
 ![](raspi-config.png)
+Use the down key to go to ```3  Boot Options ``` and type ```Enter```. Follow the other instructions.
 ![](login1.png)
 ![](login2.png)
 ![](login3.png)
+When you finish, use the down arrow to scroll down, then use the right arrow key to select ```Finish.``` Type ```Enter``` to finish.
 ![](login4.png)
