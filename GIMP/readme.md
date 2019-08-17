@@ -67,6 +67,7 @@ Open the document by going to the top menu and clicking on file.
 ![](gimp13_scale.png)
 ![](gimp14_scale.png)
 ![](gimp15_eraser.png)
+To zoom into the image, click
 ![](gimp16_eraser.png)
 ![](gimp18_text.png)
 ![](gimp19_text.png)
