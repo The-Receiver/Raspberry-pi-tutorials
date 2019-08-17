@@ -83,7 +83,7 @@ Open the document by going to the top menu and clicking on file.
 ![](gimp29_save.png)
 ![](gimp30_save.png)
 ![](gimp31_export.png)
-
+Give the file name, click Export. A window will pop up. Click export to that too. After it finishes exporting, you can go to wherever the png file was saved and view it.
 ![](gimp33_export.png)
 
 
