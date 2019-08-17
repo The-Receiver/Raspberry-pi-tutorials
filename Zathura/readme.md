@@ -34,4 +34,6 @@ Type ```q``` to quit the document.
 ## More information
 
 Type ```man zathura``` in the terminal for a full guide.
-Open the video Zathura.mkv to watch an example.
+Click on the video link below to watch a video guide:
+
+![zathura.mkv](zathura.mkv)
