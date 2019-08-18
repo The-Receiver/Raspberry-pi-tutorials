@@ -10,6 +10,11 @@ If you make a mistake, you can use ``` Ctrl Z ``` to undo changes you have made,
 
 If you accidentally delete a toolbox, go to ``` Windows ``` and click on ``` Recently closed docks```. Also make sure There is no checkmark next to ``` Hide Docks ```.
 
+#### Scale
+
+``` Shift = ```:  Zoom in
+``` - ```: Zoom out 
+
 #### File
 ``` Ctrl O ``` : Open
 
