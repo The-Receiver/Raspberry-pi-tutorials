@@ -69,7 +69,9 @@ Open the document by going to the top menu and clicking on file.
 Now we will flip the man and move him to the right
 ![](gimp12_flip.png)
 ![](gimp12_scale.png)
+Then, click inside the rectangle around the image, and drag the box outside to make it larger.
 ![](gimp13_scale.png)
+A box should appear with the word ```Scale```. ```Width``` means the width of the image, ```Height``` means its height. The numbers are the new size of the picture, in ```px```. Click ```Scale``` to scale the picture.
 ![](gimp14_scale.png)
 Now we will erase small parts of the man's beard. Click on the eraser, or Type ``` Shift E ```. This will activate the eraser tool.
 ![](gimp15_eraser.png)
