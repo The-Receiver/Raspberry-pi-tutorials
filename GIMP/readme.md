@@ -61,8 +61,8 @@ Open the document by going to the top menu and clicking on file.
 ![](gimp10_open_as_layers.png)
 ![](gimp11_lock.png)
 ![](gimp11_move.png)
+Now we will flip the man and move him to the right
 ![](gimp12_flip.png)
-![](gimp12_lukeincorner.png)
 ![](gimp12_scale.png)
 ![](gimp13_scale.png)
 ![](gimp14_scale.png)
