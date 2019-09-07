@@ -40,7 +40,7 @@ Now we can simply run
 ``` chmod o-rwx student1``` to take away read, write and execute abilitity for everyone other than student1.
 
 
-## Access Control Lists with 
+## Access Control Lists with setfacl
 So far, chmod can only deny permissions to everybody, nobody, or one group. But we want to specify the permissions of manyu different groups. To do this we install acl, and run the command facl. To learn more about this command, type ``` man facl ```.
 ``` sudo apt install acl ```
 
